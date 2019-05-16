@@ -1,6 +1,17 @@
 # ETL_PROJECT
 
 ### Going Hunting for data 🏹  📊
+
+#### Contributors:
+https://github.com/patcasrom
+
+https://github.com/bellissima0419
+
+
+[Stack Overflow](https://stackoverflow.com) 😅
+
+
+
 <!-- ETL PROJECT -->
 
 
