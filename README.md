@@ -20,7 +20,9 @@ https://github.com/bellissima0419
 
 ## View Our Notebooks here:
 
-[SQL ETL Notebook](https://nbviewer.jupyter.org/github/bellissima0419/ETL_PROJECT/blob/master/PC_testFiles/pc_starter.ipynb)
+
+  [SQL ETL Notebook](https://nbviewer.jupyter.org/github/bellissima0419/ETL_PROJECT/blob/master/PC_testFiles/pc_starter.ipynb)
+
 
 
 [mongo ETL Notebook](https://nbviewer.jupyter.org/github/bellissima0419/ETL_PROJECT/blob/master/MR_testFiles/yelpAPI.ipynb)
