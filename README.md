@@ -22,7 +22,7 @@ https://github.com/bellissima0419
 
 
 
-[SQL ETL Notebook](https://nbviewer.jupyter.org/github/bellissima0419/ETL_PROJECT/blob/master/PC_testFiles/pc_starter.ipynb)
+[SQL ETL Notebook](https://nbviewer.jupyter.org/github/bellissima0419/ETL_PROJECT/blob/master/PC_testFiles/MyETLProject_2010-Present_05.18.19_FV.ipynb)
 
 [LA CRIME SOURCE DATA](https://catalog.data.gov/dataset/crime-data-from-2010-to-present)
 
