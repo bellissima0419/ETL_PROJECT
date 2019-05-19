@@ -36,15 +36,16 @@ def computeNearestZip(latitude, longitude):
                     smallestDistance = distance
 
 
-    return smallestDistance, smallestZip
+    # return smallestDistance, smallestZip
+    return smallestZip
 
-if __name__ == '__main__':
-    #lat long of 30339
-    smallestDistance, smallestZip = computeNearestZip(33.8677, -84.4645)
-    print(smallestZip)
-    print(smallestDistance)
+# if __name__ == '__main__':
+#     #lat long of 30339
+#     smallestDistance, smallestZip = computeNearestZip(33.8677, -84.4645)
+#     print(smallestZip)
+#     print(smallestDistance)
 
-    #lat long of 27510
-    smallestDistance, smallestZip = computeNearestZip(35.9108, -79.0815)
-    print(smallestZip)
-    print(smallestDistance)
+#     #lat long of 27510
+#     smallestDistance, smallestZip = computeNearestZip(35.9108, -79.0815)
+#     print(smallestZip)
+#     print(smallestDistance)
