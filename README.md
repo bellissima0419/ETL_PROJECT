@@ -3,7 +3,7 @@
 ### Going Hunting for data 🏹  📊
 
 <div>
-  <img src="./images/hunterGirl.GIF">
+  <img src="./images/hunterBoy.GIF">
 <div>
 
 #### Contributors:
@@ -12,7 +12,6 @@ https://github.com/patcasrom
 https://github.com/bellissima0419
 
 
-[Stack Overflow](https://stackoverflow.com) 😅
 
 
 <!-- ETL PROJECT -->
