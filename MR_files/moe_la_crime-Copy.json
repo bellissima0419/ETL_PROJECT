@@ -698,18 +698,9 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 200,
+   "execution_count": null,
    "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "Total columns in dataset: 28\n",
-      "Number of Columns with no missing values: 15\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "print(f\"Total columns in dataset: {len(crime_df.columns)}\")\n",
     "print(f\"Number of Columns with no missing values: {len(crime_df.dropna(axis=1).columns)}\")"
