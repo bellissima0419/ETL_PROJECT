@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+.gitignore
+.gitattributes
 MR_TEST_FILES/*
 Crime_Data_from_2010_to_Present.csv
 credentials.py
