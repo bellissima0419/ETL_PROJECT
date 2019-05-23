@@ -23,7 +23,7 @@ https://github.com/bellissima0419
 
 [LA Crime 10k rows Notebook](https://nbviewer.jupyter.org/github/bellissima0419/ETL_PROJECT/blob/master/la_crime_reports_10k.ipynb)
 
-[Census API](https://nbviewer.jupyter.org/github/bellissima0419/ETL_PROJECT/blob/master/census_yelp_combined.ipynb)
+[Census API Notebook](https://nbviewer.jupyter.org/github/bellissima0419/ETL_PROJECT/blob/master/census_yelp_combined.ipynb)
 
 
 
