@@ -12,5 +12,13 @@ https://github.com/bellissima0419
   <img src="./images/huntingLizard.gif" height="250">
 <div>
 
+[LA Crime 1k rows Notebook](https://nbviewer.jupyter.org/github/bellissima0419/ETL_PROJECT/blob/master/la_crime_reports.ipynb)
+
+[LA Crime 10k rows Notebook](https://nbviewer.jupyter.org/github/bellissima0419/ETL_PROJECT/blob/master/la_crime_reports_10k.ipynb)
+
+[Census API](https://nbviewer.jupyter.org/github/bellissima0419/ETL_PROJECT/blob/master/census_yelp_combined.ipynb)
+
+
+
 
 
